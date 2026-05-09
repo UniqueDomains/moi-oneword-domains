@@ -335,7 +335,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0f44caa7-8972-48b1-9f2c-b4f9dfb09074,pickupline.moi,available,39.99,,76,2,12,name.com,,
 0f85a717-4363-40fa-8679-eed636da3d2e,WWWpage.moi,premium,,,80,1,8,,,
 0f8f5b0a-98e6-44cb-8f7a-ebf2f0ae912c,restructuring.moi,available,39.99,,60,6,13,name.com,,
-0f963630-644b-4691-8c7a-a78697d3b0e9,team.moi,available,39.99,,76,49,4,name.com,,
+0f963630-644b-4691-8c7a-a78697d3b0e9,team.moi,available,39.99,,76,48,4,name.com,,
 0f96bab9-1751-4f93-9ccb-017635a269f2,studyabroad.moi,available,39.99,,76,13,12,name.com,,
 0f9cb8cd-3259-4161-8928-1dc4d96ec301,rocks.moi,available,39.99,,78,18,5,name.com,,
 0fab7c42-a24c-4b61-85aa-85629db5ce84,getup.moi,available,39.99,,82,14,6,name.com,,
