@@ -64,8 +64,8 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Audi.moi         | premium   | —         | —             | 86             | 69     | 4      | —         |
-| Uber.moi         | premium   | —         | —             | 88             | 82     | 4      | —         |
+| Audi.moi         | premium   | —         | —             | 86             | 70     | 4      | —         |
+| Uber.moi         | premium   | —         | —             | 88             | 85     | 4      | —         |
 | Cindy.moi        | premium   | —         | —             | 80             | 15     | 5      | —         |
 | finals.moi       | available | $25.99    | $25.99        | 80             | 7      | 6      | namesilo  |
 | barup.moi        | available | $39.99    | —             | 82             | 2      | 6      | name.com  |
