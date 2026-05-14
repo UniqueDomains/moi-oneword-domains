@@ -72,9 +72,9 @@ print(df.head())
 | kirkland.moi     | available | $39.99    | —             | 74             | 82     | 8      | name.com  |
 | our.moi          | premium   | $250      | —             | 64             | 48     | 3      | name.com  |
 | jetpack.moi      | available | $39.99    | —             | 82             | 75     | 8      | name.com  |
-| its.moi          | premium   | $937.50   | —             | 78             | 42     | 3      | name.com  |
+| realestate.moi   | premium   | $250      | —             | 77             | 44     | 11     | name.com  |
 | farmers.moi      | available | $39.99    | —             | 54             | 59     | 7      | name.com  |
-| realestate.moi   | premium   | $250      | —             | 77             | 42     | 11     | name.com  |
+| its.moi          | premium   | $937.50   | —             | 78             | 42     | 3      | name.com  |
 | team.moi         | available | $39.99    | —             | 76             | 48     | 4      | name.com  |
 | foto.moi         | premium   | $250      | —             | 76             | 28     | 4      | name.com  |
 | chatbot.moi      | available | $39.99    | —             | 82             | 40     | 7      | name.com  |
@@ -83,7 +83,7 @@ print(df.head())
 | Philippines.moi  | premium   | —         | —             | 68             | 94     | 11     | —         |
 | notes.moi        | available | $39.99    | —             | 73             | 37     | 5      | name.com  |
 | Netherlands.moi  | premium   | —         | —             | 76             | 93     | 11     | —         |
-| goodlife.moi     | available | $39.99    | —             | 60             | 33     | 9      | name.com  |
+| bits.moi         | available | $39.99    | —             | 71             | 33     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
