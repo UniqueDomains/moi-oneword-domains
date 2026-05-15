@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moi one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,513 domains · **Median ask:** $64.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/moi`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | SriLanka.moi     | premium   | —         | —             | 68             | 94     | 9      | —         |
 | intelligence.moi | available | $39.99    | —             | 84             | 39     | 12     | name.com  |
 | Philippines.moi  | premium   | —         | —             | 68             | 94     | 11     | —         |
-| notes.moi        | available | $39.99    | —             | 73             | 37     | 5      | name.com  |
+| notes.moi        | available | $39.99    | —             | 73             | 33     | 5      | name.com  |
 | Netherlands.moi  | premium   | —         | —             | 76             | 93     | 11     | —         |
 | bits.moi         | available | $39.99    | —             | 71             | 33     | 4      | name.com  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
