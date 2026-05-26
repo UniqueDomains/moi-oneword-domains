@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moi one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,513 domains · **Median ask:** $64.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/moi`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | Uber.moi         | premium   | —         | —             | 88             | 85     | 4      | —         |
 | finals.moi       | available | $25.99    | $25.99        | 80             | 7      | 6      | namesilo  |
 | barup.moi        | available | $39.99    | —             | 82             | 2      | 6      | name.com  |
-| getup.moi        | available | $39.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.moi        | available | $39.99    | —             | 82             | 15     | 6      | name.com  |
 | kirkland.moi     | available | $39.99    | —             | 74             | 82     | 8      | name.com  |
 | our.moi          | premium   | $250      | —             | 64             | 48     | 3      | name.com  |
 | jetpack.moi      | available | $39.99    | —             | 82             | 75     | 8      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
