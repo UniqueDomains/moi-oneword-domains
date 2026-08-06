@@ -1,10 +1,10 @@
-# Available .MOI One-Word Domains (10,513)
+# Available .MOI One-Word Domains (11,907)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C513%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C907%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .moi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,513 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,907 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,513 domains · **Median ask:** $64.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,907 domains · **Median ask:** $51.87 · **High-demand under $2,500:** 56
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/moi`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/moi`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MOI one-word domain c
 
 ### Files
 
-- `moi.csv` — public CSV extract (1,000 rows)
-- `moi.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `moi.csv`, public CSV extract (1,000 rows)
+- `moi.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Audi.moi         | premium   | —         | —             | 86             | 70     | 4      | —         |
-| Uber.moi         | premium   | —         | —             | 88             | 85     | 4      | —         |
-| finals.moi       | available | $25.99    | $25.99        | 80             | 7      | 6      | namesilo  |
-| barup.moi        | available | $39.99    | —             | 82             | 2      | 6      | name.com  |
-| getup.moi        | available | $39.99    | —             | 82             | 15     | 6      | name.com  |
-| kirkland.moi     | available | $39.99    | —             | 74             | 82     | 8      | name.com  |
-| our.moi          | premium   | $250      | —             | 64             | 48     | 3      | name.com  |
-| jetpack.moi      | available | $39.99    | —             | 82             | 75     | 8      | name.com  |
-| realestate.moi   | premium   | $250      | —             | 77             | 44     | 11     | name.com  |
-| farmers.moi      | available | $39.99    | —             | 54             | 59     | 7      | name.com  |
-| its.moi          | premium   | $937.50   | —             | 78             | 42     | 3      | name.com  |
-| team.moi         | available | $39.99    | —             | 76             | 48     | 4      | name.com  |
-| foto.moi         | premium   | $250      | —             | 76             | 28     | 4      | name.com  |
-| chatbot.moi      | available | $39.99    | —             | 82             | 40     | 7      | name.com  |
-| SriLanka.moi     | premium   | —         | —             | 68             | 94     | 9      | —         |
-| intelligence.moi | available | $39.99    | —             | 84             | 39     | 12     | name.com  |
-| Philippines.moi  | premium   | —         | —             | 68             | 94     | 11     | —         |
-| notes.moi        | available | $39.99    | —             | 73             | 33     | 5      | name.com  |
-| Netherlands.moi  | premium   | —         | —             | 76             | 93     | 11     | —         |
-| bits.moi         | available | $39.99    | —             | 71             | 33     | 4      | name.com  |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| age.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| aaa.moi | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| aid.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| art.moi | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| aim.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| ask.moi | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| atp.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| but.moi | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| awe.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| con.moi | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
+| bar.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| day.moi | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| beg.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| eve.moi | premium   | $250      | —             | high           | medium | 3      | name.com  |
+| bid.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| fly.moi | premium   | $937.50   | —             | high           | low    | 3      | name.com  |
+| bro.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| gay.moi | premium   | $937.50   | —             | high           | medium | 3      | name.com  |
+| bug.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| her.moi | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,513 live domains                        |
+| 1,000-row public sample | 11,907 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 56 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on .moi domains. The names shown suggest a mix of short generic words, personal names, acronyms, and geo terms, with examples such as tips.moi, Liam.moi, Cindy.moi, and NYC.moi. The median ask is 64.22, which sets a low reference point for initial review. When comparing these domains, focus on whether the word is easy to recognize, easy to say, and commercially usable within a non-mainstream extension. Be stricter with names that match famous brands or protected marks, such as Audi.moi, Sony.moi, or Uber.moi, because legal risk can outweigh price.
+This list of one-word .moi domains is built from real listings across the extension, spanning modern, elegant, and playful naming styles. Most names ask under $500, with a median price near $52, making this set approachable for founders shortlisting a brandable domain and for investors scanning for spread. A small share carry premium status or higher reference value, such as marketplace.moi and manual.moi, where asking price sits far below estimated reference value.
 
-- Focus on short, recognizable words and clear personal names
-- Use 64.22 as the median ask reference point
-- City terms and acronyms can be memorable but narrower
-- Avoid obvious trademark conflicts despite low entry prices
+- 11,907 one-word .moi domains, 11,412 available now
+- Median asking price near $52, most listed under $500
+- 495 domains carry premium status; rest are standard
+- Picks like marketplace.moi show large price-to-value gaps
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
