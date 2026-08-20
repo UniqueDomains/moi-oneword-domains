@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moi one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,727 domains · **Median ask:** $44.43 · **High-demand under $2,500:** 59
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/moi`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| age.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
-| aaa.moi | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
-| aid.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
-| art.moi | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
-| aim.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
-| ask.moi | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
-| atp.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
-| but.moi | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
-| awe.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
-| con.moi | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
-| bar.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
-| day.moi | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
-| beg.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
-| eve.moi | premium   | $250      | —             | high           | medium | 3      | name.com  |
-| bid.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
-| fly.moi | premium   | $937.50   | —             | high           | low    | 3      | name.com  |
-| bro.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
-| gay.moi | premium   | $937.50   | —             | high           | medium | 3      | name.com  |
-| bug.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
-| her.moi | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| okay.moi    | available | $18.99    | $39.99        | high           | low    | 4      | name.com  |
+| content.moi | premium   | $250      | $250          | high           | low    | 7      | name.com  |
+| age.moi     | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| aaa.moi     | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| aid.moi     | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| art.moi     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| aim.moi     | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| ask.moi     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| atp.moi     | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| but.moi     | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| awe.moi     | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| con.moi     | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
+| bar.moi     | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| day.moi     | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| beg.moi     | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| eve.moi     | premium   | $250      | —             | high           | medium | 3      | name.com  |
+| bid.moi     | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
+| fly.moi     | premium   | $937.50   | —             | high           | low    | 3      | name.com  |
+| bro.moi     | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
+| gay.moi     | premium   | $937.50   | —             | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
