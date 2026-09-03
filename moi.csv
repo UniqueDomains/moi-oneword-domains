@@ -600,7 +600,7 @@ f50d36ef-a08f-4f07-bda0-ee73c67dcf68,pub.moi,available,39.99,,high,low,3,name.co
 c0ba60b9-4fe7-4fbf-b56b-b0b886a3159b,insurance.moi,premium,375,,high,medium,9,name.com,,
 d54448ef-73b2-4dd6-ad71-3e40b1aaa527,choice.moi,premium,375,375,high,low,6,name.com,,
 29a53b87-a4c9-42fd-b2e4-c9aa64232e69,enter.moi,available,25.99,25.99,high,low,5,namesilo,,
-952c3c81-f016-45bb-9a7c-97aa3dd17859,stove.moi,available,25.99,25.99,medium,low,5,namesilo,,
+952c3c81-f016-45bb-9a7c-97aa3dd17859,stove.moi,available,25.99,25.99,low,low,5,namesilo,,
 22d842cf-04ff-4042-9f15-0db7ffcf6b16,season.moi,available,25.99,25.99,high,low,6,namesilo,,
 f57ceed1-12c6-4a56-a74b-ca4a7f319a45,vehicle.moi,available,25.99,25.99,high,low,7,namesilo,,
 b11907b9-d19a-4129-bc15-2b102eee9333,shin.moi,available,25.99,25.99,medium,low,4,namesilo,,
