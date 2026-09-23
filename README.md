@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moi one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,899 domains · **Median ask:** $37.82 · **High-demand under $2,500:** 57
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/moi`
 **Best for:** founders, investors, studios
 
@@ -65,9 +65,9 @@ print(df.head())
 | domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | age.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
-| aaa.moi | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| aaa.moi | premium   | $242      | $242          | medium         | medium | 3      | namesilo  |
 | aid.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
-| art.moi | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo  |
+| art.moi | premium   | $1,250    | $1,250        | medium         | low    | 3      | name.com  |
 | aim.moi | available | $25.99    | $25.99        | high           | low    | 3      | namesilo  |
 | ask.moi | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
 | atp.moi | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOI One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
