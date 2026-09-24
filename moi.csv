@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27a167c6-afee-4a4f-b519-eadf81d28280,listed.moi,available,25.99,25.99,medium,low,6,namesilo,,,
 79c21eaa-d6aa-4faa-9995-c734c2e8440b,but.moi,premium,242,242,high,low,3,namesilo,,,
 c0948756-540d-4baf-9867-e616c2d0b328,awareness.moi,available,25.99,25.99,high,low,9,namesilo,,,
-9e812f1e-cba2-4d72-826d-adb9e7dfff32,slick.moi,available,18.99,39.99,medium,low,5,name.com,,,
+9e812f1e-cba2-4d72-826d-adb9e7dfff32,slick.moi,available,25.99,25.99,low,low,5,namesilo,,,24/09/2026 02:25
 f0436362-26d4-4794-97fb-5819060f2b53,marriage.moi,premium,640,640,high,low,8,namesilo,,,19/09/2026 14:30
 ce4179f2-7233-46ef-8e72-f7046cd533d5,revolved.moi,available,39.99,,medium,low,8,name.com,,,
 632adeb3-ef0c-4c05-917f-c2209795d674,baggage.moi,available,25.99,25.99,high,low,7,namesilo,,,
@@ -12,15 +12,15 @@ ce4179f2-7233-46ef-8e72-f7046cd533d5,revolved.moi,available,39.99,,medium,low,8,
 f92eed12-a634-463b-9f38-290428b94512,yearround.moi,available,25.99,25.99,high,low,10,namesilo,,,
 d88deb4d-ffe4-48fa-a734-7f9a5a1925da,mister.moi,available,39.99,,high,low,6,name.com,,,
 ae562480-ec68-454c-9aa9-74870dbe6fef,objectively.moi,available,25.99,25.99,high,low,11,namesilo,,,
-cb7ba84b-1352-475a-a92e-39fc2a5c13e4,biology.moi,available,25.99,25.99,high,low,7,namesilo,,,
-b5c7d87e-8ecd-4f02-8f74-9224962350fe,covered.moi,available,18.99,39.99,high,low,7,name.com,,,
+cb7ba84b-1352-475a-a92e-39fc2a5c13e4,biology.moi,available,25.99,25.99,medium,low,7,namesilo,,,24/09/2026 02:45
+b5c7d87e-8ecd-4f02-8f74-9224962350fe,covered.moi,available,25.99,25.99,medium,low,7,namesilo,,,24/09/2026 00:50
 8aa92c86-10f0-482c-b47f-5ba225fd69f3,digital.moi,premium,242,242,medium,low,7,namesilo,,,23/09/2026 05:43
 27ff61f9-0057-4e7c-b766-5cccd9b3af56,grandniece.moi,available,39.99,,high,low,10,name.com,,,
 9cbdf44f-8feb-466e-b6a3-e90e31809e50,blinking.moi,available,25.99,25.99,medium,low,8,namesilo,,,22/09/2026 21:58
 34d16fec-e861-40e5-8c73-c954209961c2,arrogant.moi,available,25.99,25.99,low,low,8,namesilo,,,22/09/2026 08:39
 6f903f72-9390-48aa-bea0-01a33816255c,lang.moi,available,25.99,25.99,high,low,4,namesilo,,,
 8486f209-cb6b-43c4-8d58-02cf9c434527,artwork.moi,available,25.99,25.99,high,low,7,namesilo,,,
-1bb8d25d-194c-487c-b73d-bf55406c8f37,corrected.moi,available,18.99,39.99,high,low,9,name.com,,,
+1bb8d25d-194c-487c-b73d-bf55406c8f37,corrected.moi,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 23:45
 d3a10378-a124-477a-bf78-1042c0017cce,sky.moi,premium,242,242,high,medium,3,namesilo,,,
 5e055063-9be3-4146-a30a-0fb23316d69b,nearly.moi,available,25.99,25.99,high,low,6,namesilo,,,
 0155c463-902c-42a8-877d-a7bbb6b96468,jump.moi,premium,384,384,low,low,4,namesilo,,,22/09/2026 02:34
@@ -46,7 +46,7 @@ ae2c5d53-f129-408c-9da9-1acc35e07b4f,algore.moi,available,25.99,25.99,high,low,7
 8f1da9fa-ae7f-4c62-903e-fbcdc5cba6ed,meddle.moi,available,25.99,25.99,medium,low,6,namesilo,,,
 d918acaa-e3e2-4823-8a20-e76748394c30,recognised.moi,available,25.99,25.99,medium,low,10,namesilo,,,21/09/2026 15:30
 cb9bcdfe-3c83-4342-9393-d1bdbb7ff786,passalong.moi,available,25.99,25.99,high,low,10,namesilo,,,
-ce355602-3a87-4a0b-bbc1-98ae64071f1f,sideways.moi,available,18.99,39.99,high,low,8,name.com,,,
+ce355602-3a87-4a0b-bbc1-98ae64071f1f,sideways.moi,available,25.99,25.99,low,low,8,namesilo,,,24/09/2026 01:14
 22f18d24-a0aa-4d5b-ab0c-db2b7fc931d7,teeshirt.moi,available,39.99,,high,low,9,name.com,,,
 b4a87752-be90-425f-9f81-7e211ec288ae,married.moi,available,25.99,25.99,high,low,7,namesilo,,,
 13cc60af-0292-4a42-9662-f0cffcabe519,damned.moi,available,25.99,25.99,low,low,6,namesilo,,,22/09/2026 21:41
@@ -70,8 +70,8 @@ ccaee1d2-0889-4574-91d9-3dfccbceb96e,astounded.moi,available,25.99,25.99,low,low
 40300b32-f13f-4468-9fcd-22935f2e7b37,getto.moi,available,25.99,25.99,high,low,6,namesilo,,,
 2ec93476-3086-47a1-969d-2a623b45aebd,gore.moi,available,25.99,25.99,medium,low,4,namesilo,,,
 214655eb-d22f-47b0-9ecc-3617505eac28,rail.moi,available,25.99,25.99,high,low,4,namesilo,,,
-b065907f-546d-4adc-ab8e-a824dae0e95e,television.moi,available,25.99,25.99,medium,low,10,namesilo,,,20/09/2026 02:37
-d70226b2-7c0f-46fe-82d0-24570a279a7a,letter.moi,available,25.99,25.99,high,low,6,namesilo,,,
+b065907f-546d-4adc-ab8e-a824dae0e95e,television.moi,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 06:07
+d70226b2-7c0f-46fe-82d0-24570a279a7a,letter.moi,available,25.99,25.99,medium,low,6,namesilo,,,24/09/2026 02:40
 414389bc-7a9f-47dd-b9b4-84e5cf0f35bc,siberian.moi,available,25.99,25.99,medium,low,8,namesilo,,,
 225b0239-7e59-44f3-ae19-2dea54961bd4,auspicious.moi,available,25.99,25.99,medium,low,10,namesilo,,,22/09/2026 13:12
 62f65ee9-1f1c-4df5-8e1d-8e5396b31e03,esteem.moi,available,25.99,25.99,high,low,6,namesilo,,,
@@ -79,7 +79,7 @@ bdba55ce-04b6-485e-aa2b-91da082ba2dd,kill.moi,premium,375,375,medium,low,4,name.
 ef0e393e-967f-4f8f-9782-6232413bda72,bulb.moi,available,25.99,25.99,high,low,4,namesilo,,,
 a34276a9-c36c-4f02-9f28-33cbb3b7f09b,appoint.moi,available,25.99,25.99,high,low,7,namesilo,,,
 63239de1-68c4-4ea7-9af1-c804fd89e511,suspense.moi,available,39.99,,high,low,8,name.com,,,
-61f63f65-7eb8-49bf-b2fb-d13b5ee5206d,habitat.moi,available,39.99,,high,medium,7,name.com,,,
+61f63f65-7eb8-49bf-b2fb-d13b5ee5206d,habitat.moi,available,25.99,25.99,medium,low,7,namesilo,,,23/09/2026 08:52
 d036266b-3d26-49e3-b1d7-4053c8e6dfc3,clam.moi,available,25.99,25.99,high,low,4,namesilo,,,
 ae64e223-3fe5-4324-8c9e-5d0376c697fb,roll.moi,available,39.99,,medium,low,4,name.com,,,
 94738cc2-df01-47d9-9be2-dd5fc72c6399,alabama.moi,available,25.99,25.99,high,low,7,namesilo,,,
@@ -92,7 +92,7 @@ faffec22-e78d-4898-87a1-6c2891eb3a9b,letgo.moi,available,25.99,25.99,high,low,6,
 a133d491-5a1e-4d68-8325-fbb944572777,buyer.moi,available,25.99,25.99,high,low,5,namesilo,,,
 da2eb680-ff97-4aa4-9824-0bc45b3f3225,passive.moi,available,25.99,25.99,medium,low,7,namesilo,,,
 211f7b77-b31c-4579-a6b1-408b13e2b61a,cot.moi,available,25.99,25.99,high,low,3,namesilo,,,
-0d2f67f0-1143-4b3f-a3b0-e343831d0147,screen.moi,available,25.99,25.99,low,low,6,namesilo,,,19/09/2026 13:37
+0d2f67f0-1143-4b3f-a3b0-e343831d0147,screen.moi,available,25.99,25.99,low,low,6,namesilo,,,23/09/2026 16:32
 ca84dc0a-f771-48b4-8469-85b05483ebd9,most.moi,available,25.99,25.99,high,low,4,namesilo,,,
 1ac1eee1-d28c-4cda-9daa-52e3d7102894,taylor.moi,available,39.99,,high,low,6,name.com,,,
 0e40afde-68a2-4af9-ba68-9d18bcc6ad2b,breakfast.moi,available,25.99,25.99,medium,low,9,namesilo,,,04/09/2026 13:27
@@ -110,11 +110,11 @@ ce37b7f5-fb15-4bc9-a01c-1829ed729049,naked.moi,available,25.99,25.99,low,low,5,n
 0eea7e19-eb6e-44c6-aa3e-a3f337ec14f6,advanced.moi,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 20:46
 c517b2ae-7f5f-4263-bc7d-ad8a95f97edc,outcome.moi,available,25.99,25.99,high,low,7,namesilo,,,
 a6b4ade1-ce5d-440d-97fd-e5d84b525746,justified.moi,available,25.99,25.99,high,low,9,namesilo,,,
-28106e49-7dfd-4186-9ae1-a95ee8ee74ee,mesh.moi,available,25.99,25.99,high,high,4,namesilo,,,
+28106e49-7dfd-4186-9ae1-a95ee8ee74ee,mesh.moi,available,25.99,25.99,medium,low,4,namesilo,,,23/09/2026 08:00
 2ab20cd5-b335-49a7-9f48-d77ff46212e3,exemplary.moi,available,18.99,39.99,medium,low,9,name.com,,,21/09/2026 18:58
 a5417bba-b2ef-492b-9117-a00851f23ead,riveravon.moi,available,25.99,25.99,high,low,10,namesilo,,,
 c678515c-e4a5-457e-9950-b85135c398d7,diversity.moi,available,25.99,25.99,high,low,9,namesilo,,,
-71f90c3b-c8dc-44c4-9a36-9709eb6fbe4f,composed.moi,available,18.99,39.99,high,low,8,name.com,,,
+71f90c3b-c8dc-44c4-9a36-9709eb6fbe4f,composed.moi,available,18.99,39.99,medium,low,8,name.com,,,23/09/2026 17:50
 8a619496-e31e-444e-9e14-fdae3a2f6db0,thorpe.moi,available,25.99,25.99,medium,low,6,namesilo,,,
 20b66e1a-ca2d-4231-8d4c-700ee071818d,distance.moi,available,25.99,25.99,high,low,8,namesilo,,,
 21bd168c-6670-428f-a9a0-dd460ce9f885,pup.moi,available,25.99,25.99,high,low,3,namesilo,,,
@@ -123,9 +123,9 @@ c678515c-e4a5-457e-9950-b85135c398d7,diversity.moi,available,25.99,25.99,high,lo
 2bde8350-0195-48e8-89dd-d33f8f4919bf,consent.moi,available,25.99,25.99,medium,low,7,namesilo,,,08/09/2026 13:17
 9e05f14c-254e-4028-8f74-1c04ddfdb542,technology.moi,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 02:34
 3970aba0-0b88-4cd8-8a6d-557279748ea7,shaft.moi,available,25.99,25.99,high,low,5,namesilo,,,
-1324aaa9-0ccd-4b87-bd5a-5ccd485c338f,relief.moi,available,25.99,25.99,medium,low,6,namesilo,,,19/09/2026 08:39
+1324aaa9-0ccd-4b87-bd5a-5ccd485c338f,relief.moi,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 07:06
 2f37b632-01c4-46f0-9b13-f3582f01efbb,guess.moi,available,25.99,25.99,medium,low,5,namesilo,,,23/09/2026 04:46
-8e6931f8-830f-4f5f-9d24-a653bd64dfa4,gather.moi,available,18.99,39.99,high,low,6,name.com,,,
+8e6931f8-830f-4f5f-9d24-a653bd64dfa4,gather.moi,available,18.99,39.99,medium,low,6,name.com,,,23/09/2026 20:27
 6d55b1a9-f78a-4690-8e17-96d1679dd7d9,police.moi,premium,116,116,high,low,6,namesilo,,,
 de264753-9c4f-4c99-876c-bd2e5d3e96f0,polo.moi,available,39.99,,high,high,4,name.com,,,
 7e41d098-2b92-413d-bce2-9a4abed6114d,want.moi,premium,125,,high,low,4,name.com,,,
@@ -146,7 +146,7 @@ d7b80d7b-1d95-455a-9881-9bc910733f2e,msg.moi,premium,937.5,,high,low,3,name.com,
 afd3a581-a4e5-454c-859f-51c0b1af3a84,passionately.moi,available,25.99,25.99,high,low,12,namesilo,,,
 c6e903ad-2a5e-42bc-bd79-d3fd9dacb764,yard.moi,available,25.99,25.99,medium,low,4,namesilo,,,21/09/2026 11:13
 9341f1ea-d6b9-4c32-9176-a11c49d040f3,produce.moi,available,25.99,25.99,high,low,7,namesilo,,,
-bd04ea73-e3b6-4e5a-b9f5-e08d0c52b810,news.moi,premium,1107,1107,medium,low,4,namesilo,,,20/09/2026 02:58
+bd04ea73-e3b6-4e5a-b9f5-e08d0c52b810,news.moi,premium,1107,1107,medium,low,4,namesilo,,,23/09/2026 11:01
 b3333e9f-2b73-43aa-b922-a2b3b5a67ea2,questionmark.moi,available,39.99,,medium,low,13,name.com,,,
 27c6d311-66fe-471f-8c7a-b66a8fb9c415,excelat.moi,available,25.99,25.99,high,low,8,namesilo,,,
 9ce6dbc8-e54f-4f50-9838-8ef0c9131f64,insure.moi,available,25.99,25.99,high,low,6,namesilo,,,
@@ -154,7 +154,7 @@ dfd74807-2398-4d9d-bb07-74b8af1ba41c,screenshot.moi,available,25.99,25.99,high,l
 3155ad12-d9b2-4591-97f4-18948d8f3a3e,phonecall.moi,available,25.99,25.99,high,low,10,namesilo,,,
 f172dcda-3cd9-47e0-b81b-66f3ec0d9c8a,sex.moi,premium,3125,,high,medium,3,name.com,,,
 22973eee-f001-432f-9596-7a75581484c0,gold.moi,premium,116,116,low,low,4,namesilo,,,22/09/2026 03:56
-28508dce-9dcf-4a69-9817-02de437cd19c,exchange.moi,available,25.99,25.99,high,low,8,namesilo,,,
+28508dce-9dcf-4a69-9817-02de437cd19c,exchange.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 13:38
 e4756c6b-540c-48e8-a7ae-cc2b3aaa8344,buyfood.moi,available,25.99,25.99,high,low,8,namesilo,,,
 bb68e4d2-a8d3-4f1b-a779-49c05a7deeac,episode.moi,available,25.99,25.99,high,low,7,namesilo,,,
 a6410076-ad96-4ff4-ba65-e400f5849a04,wedge.moi,available,25.99,25.99,medium,low,5,namesilo,,,
@@ -163,7 +163,7 @@ a6410076-ad96-4ff4-ba65-e400f5849a04,wedge.moi,available,25.99,25.99,medium,low,
 d8a0066b-a513-45be-800a-9cfab1d24d4c,study.moi,available,25.99,25.99,medium,low,5,namesilo,,,20/09/2026 03:18
 1a1e89dc-a0a5-473e-8a2c-59ab29e60bff,frozen.moi,available,25.99,25.99,high,low,6,namesilo,,,
 20525759-e8cb-4129-a677-a471d3620f87,yum.moi,available,25.99,25.99,high,low,3,namesilo,,,
-411582e0-dd44-4a13-a77e-88be1b0c4030,worn.moi,available,25.99,25.99,medium,low,4,namesilo,,,
+411582e0-dd44-4a13-a77e-88be1b0c4030,worn.moi,available,25.99,25.99,low,low,4,namesilo,,,23/09/2026 12:58
 fbf281b2-6d22-4b4a-b952-1ea6d65f871f,overdue.moi,available,25.99,25.99,medium,low,7,namesilo,,,
 1b8c4f21-cf0d-463f-b946-402345ff2a7e,cover.moi,available,25.99,25.99,medium,low,5,namesilo,,,22/09/2026 21:52
 5b90fb08-2a54-4f6f-8a5a-b5019f96ef08,tippingpoint.moi,available,25.99,25.99,medium,low,13,namesilo,,,
@@ -190,20 +190,20 @@ bfa63dbb-f5fc-4124-a873-af5847af1c77,move.moi,premium,625,,high,medium,4,name.co
 6cb69b80-61f0-4e6b-9499-905e1c292442,classroom.moi,available,25.99,25.99,high,low,9,namesilo,,,
 a9bfe5a6-581b-40a2-ab3a-20dca087859d,vein.moi,available,25.99,25.99,high,low,4,namesilo,,,
 6d39c2c7-cd9d-4f84-ba77-91dafabbe80f,channukkah.moi,available,25.99,25.99,high,low,10,namesilo,,,
-25505fa1-9b4b-4e93-9f2c-e48c6cf23879,organize.moi,available,18.99,39.99,high,low,8,name.com,,,
+25505fa1-9b4b-4e93-9f2c-e48c6cf23879,organize.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 23:13
 ff0c0bb0-8c25-4b43-a66b-b7c00c90d2c9,heck.moi,available,25.99,25.99,medium,low,4,namesilo,,,
 ffb45088-560d-4af7-b355-5b6cefc2dadb,attend.moi,available,25.99,25.99,high,low,6,namesilo,,,
-6d6b1dd7-fd06-494b-96d2-62401eec406b,identity.moi,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 13:48
+6d6b1dd7-fd06-494b-96d2-62401eec406b,identity.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 16:45
 82388d7f-1c0a-4f6a-9f68-40374ea11b2d,buggy.moi,available,25.99,25.99,low,low,5,namesilo,,,22/09/2026 08:13
 5ba76ba8-16e6-452b-b43e-09df549a7175,plane.moi,available,25.99,25.99,high,low,5,namesilo,,,
 97cd07f6-b19c-4746-a408-0d3ad7771fcf,alittle.moi,available,25.99,25.99,medium,low,8,namesilo,,,
 b41d13b3-aab9-41e3-926c-4346ac1b3ff3,hanukkah.moi,available,25.99,25.99,high,low,8,namesilo,,,
-bb31584f-c474-4457-a9e0-afc165acf02d,rotten.moi,available,18.99,39.99,medium,low,6,name.com,,,
+bb31584f-c474-4457-a9e0-afc165acf02d,rotten.moi,available,25.99,25.99,low,low,6,namesilo,,,24/09/2026 01:35
 82062e90-6b0d-4fb4-9c5f-74319acdc756,confide.moi,available,25.99,25.99,high,low,7,namesilo,,,
 705f3d6c-0916-414d-a3ce-378c54682212,outdoors.moi,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 23:54
 a440b90f-9172-481c-ba45-cbf48b489d81,bro.moi,available,25.99,25.99,medium,low,3,namesilo,,,
 e15bf907-72a2-4819-bfc7-d49621002364,whichever.moi,available,25.99,25.99,medium,low,9,namesilo,,,
-ff2ff488-9145-4bc5-8a34-0ef710e9e237,commanding.moi,available,25.99,25.99,high,low,10,namesilo,,,
+ff2ff488-9145-4bc5-8a34-0ef710e9e237,commanding.moi,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 15:41
 d6a9d713-8025-4fb1-b3cc-4b7af43ecf82,scarred.moi,available,25.99,25.99,medium,low,7,namesilo,,,
 473ab55b-df0e-4f54-aa9b-609776d58a5d,covenant.moi,available,25.99,25.99,high,low,8,namesilo,,,
 6595409a-7ebb-434f-9a5f-80eb6ccdc84e,worse.moi,available,25.99,25.99,high,low,5,namesilo,,,
@@ -212,7 +212,7 @@ d6a9d713-8025-4fb1-b3cc-4b7af43ecf82,scarred.moi,available,25.99,25.99,medium,lo
 48e6d1b9-571e-4c35-8d12-0d12a1701b5a,cent.moi,available,25.99,25.99,medium,low,4,namesilo,,,08/09/2026 08:07
 0aa73a2b-e48f-45a5-a394-75da75dca311,fact.moi,available,25.99,25.99,high,low,4,namesilo,,,
 c408f754-8411-4046-9f8b-c84616dd182d,metre.moi,available,25.99,25.99,high,low,5,namesilo,,,
-fa851293-c37d-45ba-a431-627e1e9d3b29,forced.moi,available,18.99,39.99,medium,low,6,name.com,,,
+fa851293-c37d-45ba-a431-627e1e9d3b29,forced.moi,available,39.99,39.99,low,low,6,name.com,,,23/09/2026 21:10
 532e669e-df59-42f0-83ca-b0d7fddf2e43,shit.moi,premium,1107,1107,low,low,4,namesilo,,,22/09/2026 18:05
 d6e802ed-521a-4daa-9ec9-df0078f278a9,santa.moi,available,25.99,25.99,medium,low,5,namesilo,,,
 5a608129-7d64-4938-b6d5-aed24f71ad04,cairo.moi,available,25.99,25.99,medium,low,5,namesilo,,,
@@ -235,11 +235,11 @@ acec9908-0839-41c9-bcd5-11efda86b1e9,attitude.moi,available,25.99,25.99,high,low
 58396694-a193-4ea3-a1e7-d181f5b66fa5,attempt.moi,available,25.99,25.99,high,low,7,namesilo,,,
 c2ced97f-facf-4895-99a5-e4ae6627ebb0,date.moi,premium,3125,,high,low,4,name.com,,,
 8f2750fd-9eab-433f-9e15-12498c1f78b6,qualitative.moi,available,25.99,25.99,high,low,11,namesilo,,,
-388e25f9-519d-4b27-8864-32a926d8b18f,continuing.moi,available,18.99,39.99,high,low,10,name.com,,,
+388e25f9-519d-4b27-8864-32a926d8b18f,continuing.moi,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 22:17
 365eb953-1ccc-4ac0-982c-66bd1aa87c1c,birthcertificate.moi,available,39.99,,medium,low,17,name.com,,,
 6ac5649f-9b80-4c29-bd79-0f664bea4c78,affirm.moi,available,25.99,25.99,high,high,6,namesilo,,,
 861d47a5-883a-4485-94e9-5e880c25466a,entrenched.moi,available,39.99,,medium,low,10,name.com,,,
-24df186c-c215-4b3b-8bca-f74a42bb01eb,effort.moi,available,25.99,25.99,medium,low,6,namesilo,,,19/09/2026 09:55
+24df186c-c215-4b3b-8bca-f74a42bb01eb,effort.moi,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 07:47
 854f6d45-f311-4c99-bbe2-27d06790148f,redo.moi,available,25.99,25.99,high,low,4,namesilo,,,
 2a1e9475-ebde-432c-833d-cbbfccff640b,excursion.moi,available,25.99,25.99,high,low,9,namesilo,,,
 291d8b70-d726-4d4b-8498-a083ef18bb6e,heaven.moi,premium,625,,high,low,6,name.com,,,
@@ -248,15 +248,15 @@ f8b89a91-16c4-4c42-b6c2-5d601252fe94,gee.moi,available,25.99,25.99,medium,low,3,
 0795ec48-7684-479a-b84f-0886f6fd31e5,fresh.moi,available,25.99,25.99,medium,low,5,namesilo,,,23/09/2026 01:54
 f321a891-5eb3-4788-ac7e-6b119161cef0,attractive.moi,available,25.99,25.99,medium,low,10,namesilo,,,22/09/2026 11:44
 03fa83a7-67d3-4a6d-8b46-36d5882380cb,steel.moi,available,25.99,25.99,medium,low,5,namesilo,,,
-8c683f41-10d3-44dd-9c53-9d2fecb5c1da,compound.moi,available,18.99,39.99,high,low,8,name.com,,,
+8c683f41-10d3-44dd-9c53-9d2fecb5c1da,compound.moi,available,18.99,39.99,medium,low,8,name.com,,,23/09/2026 17:56
 cf58c4bd-df1b-46d6-acc1-0f4fbeecbebb,option.moi,available,25.99,25.99,medium,low,6,namesilo,,,22/09/2026 02:42
 a0d741ee-2dd5-4d00-a486-895a2f950fd9,intrepid.moi,available,25.99,25.99,medium,low,8,namesilo,,,22/09/2026 12:24
 eb451b87-3006-41ef-b695-e0ca8daad2af,kicking.moi,available,25.99,25.99,high,low,7,namesilo,,,
 5e62ab29-0ddc-4a39-ae36-078cb0859178,spacious.moi,available,39.99,,high,low,8,name.com,,,
 1dcd53ea-7da1-4464-a8b2-fbbacd4a1e95,journey.moi,available,25.99,25.99,high,low,7,namesilo,,,
-ad6a9878-fc00-4a8c-8347-a4e9a6317828,platform.moi,available,25.99,25.99,high,medium,8,namesilo,,,
+ad6a9878-fc00-4a8c-8347-a4e9a6317828,platform.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 06:19
 376958d2-30dc-4602-a1d8-ac66ad54bc01,suit.moi,available,25.99,25.99,high,low,4,namesilo,,,
-7a3a38a6-af2c-4018-a6f5-d79952c07eab,material.moi,available,18.99,39.99,high,low,8,name.com,,,
+7a3a38a6-af2c-4018-a6f5-d79952c07eab,material.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 23:27
 3ead00a8-78d7-42c3-b0a0-608c3094f25a,momentum.moi,available,25.99,25.99,high,medium,8,namesilo,,,
 c686eb4f-766c-4dcd-a52f-829d91e443b1,touch.moi,premium,1107,1107,high,low,5,namesilo,,,
 dfbe6d6e-e5c4-4faf-835c-1814a4ebd365,firstcousin.moi,available,25.99,25.99,medium,low,12,namesilo,,,
@@ -295,7 +295,7 @@ fe2da92c-ac9c-461f-8bae-ee2b0272602c,auroral.moi,available,25.99,25.99,low,low,7
 b58349cd-b43f-42f7-976c-3d15b4e2e1fe,felt.moi,available,25.99,25.99,high,low,4,namesilo,,,
 d0605441-f2e4-482a-8c36-a6b194740ff3,superstar.moi,available,18.99,39.99,medium,low,9,name.com,,,21/09/2026 17:56
 2b1e1d72-b441-45e7-9c57-c1c0e2bb2a5d,pricetag.moi,available,25.99,25.99,high,low,9,namesilo,,,
-6d88790f-1ca9-4cff-933e-34d5f4b25792,wholesale.moi,available,25.99,25.99,high,low,9,namesilo,,,
+6d88790f-1ca9-4cff-933e-34d5f4b25792,wholesale.moi,available,25.99,25.99,medium,low,9,namesilo,,,24/09/2026 02:58
 3eef7c59-3c23-497b-853b-c61e6e6ec5f0,solarsystem.moi,available,25.99,25.99,high,low,12,namesilo,,,
 dffedd30-db01-44f1-811b-5c665f383dd0,visualise.moi,available,25.99,25.99,high,low,9,namesilo,,,
 bc37f2e2-3589-4ff2-893a-6bba031ad0e1,rely.moi,available,25.99,25.99,high,low,4,namesilo,,,
@@ -361,7 +361,7 @@ b1e0f2ee-e0db-4193-8fa8-90d3a1e53d16,meaningful.moi,available,25.99,25.99,high,l
 d91559ea-f95c-4a5c-bc21-dcb1b49d2029,tossout.moi,available,25.99,25.99,medium,low,8,namesilo,,,
 d592213a-cc80-41e8-bc84-69762e38b1e4,carpet.moi,available,25.99,25.99,high,low,6,namesilo,,,
 d2578ddc-6081-46d8-80c4-0c3ecaeeb8c5,pyrenees.moi,available,25.99,25.99,medium,low,8,namesilo,,,
-39486914-1ae9-4df0-bec8-1b654877ee0c,comical.moi,available,25.99,25.99,high,low,7,namesilo,,,
+39486914-1ae9-4df0-bec8-1b654877ee0c,comical.moi,available,25.99,25.99,medium,low,7,namesilo,,,23/09/2026 15:19
 41aae2a0-0c4a-4a59-85ce-8f0ab8b87fb1,involve.moi,available,25.99,25.99,high,low,7,namesilo,,,
 b0ab3932-c533-47c7-9b90-41b3f4f56d62,total.moi,available,25.99,25.99,medium,low,5,namesilo,,,21/09/2026 22:55
 0d7e7e5f-5719-40ae-934b-85836b4e6587,realtime.moi,available,25.99,25.99,high,low,9,namesilo,,,
@@ -408,7 +408,7 @@ d061c2ea-1065-4178-ad6a-e29805758574,bird.moi,available,25.99,25.99,high,medium,
 b9d7ccac-cc4d-41ef-b05e-14e80dff4c99,fallinto.moi,available,25.99,25.99,high,low,9,namesilo,,,
 f5acab02-ce19-4d42-a349-e88ea1b7c5c6,sausage.moi,available,25.99,25.99,high,low,7,namesilo,,,
 60454444-2ca3-4881-ab52-aaffef2bba21,moonlight.moi,available,39.99,,high,low,9,name.com,,,
-573af98e-225d-4fd5-8407-87805fdcfa59,appointment.moi,available,39.99,,high,low,11,name.com,,,
+573af98e-225d-4fd5-8407-87805fdcfa59,appointment.moi,available,25.99,25.99,medium,low,11,namesilo,,,24/09/2026 03:38
 cdfba0d8-d01e-46c6-8664-31e6a003a833,admiration.moi,available,25.99,25.99,high,low,10,namesilo,,,
 117485d6-1649-46ad-8a1a-191144166583,overnight.moi,available,25.99,25.99,medium,low,9,namesilo,,,22/09/2026 00:44
 557bbac4-c334-4b0d-995f-ebfde287f417,credit.moi,premium,1107,1107,medium,low,6,namesilo,,,
@@ -428,15 +428,15 @@ bc7342a0-2862-4ead-80e6-100409830c99,exercising.moi,available,25.99,25.99,high,l
 fed6952b-9668-488a-bf4c-73ac90865f2e,twentytwo.moi,available,25.99,25.99,medium,low,10,namesilo,,,21/09/2026 12:36
 f8759b88-7c8d-4a24-a62e-0ce25f3416cf,send.moi,available,39.99,,high,low,4,name.com,,,
 b29bb4e3-c2a6-4e2b-aa8a-638a9b0f4f37,resolution.moi,available,25.99,25.99,high,low,10,namesilo,,,
-34284da9-044e-4638-a300-adde45a6cec1,bronze.moi,available,25.99,25.99,medium,low,6,namesilo,,,
+34284da9-044e-4638-a300-adde45a6cec1,bronze.moi,available,25.99,25.99,low,low,6,namesilo,,,23/09/2026 09:58
 77544d79-839f-45a2-962a-30f33e4df160,bar.moi,available,25.99,25.99,high,low,3,namesilo,,,
 4b4237dc-12e2-413e-8dc3-8776fcffa327,fiber.moi,available,25.99,25.99,high,low,5,namesilo,,,
 62824155-4866-4814-aeaf-8031b8f831be,made.moi,available,25.99,25.99,high,low,4,namesilo,,,
 bfd85a05-2aa4-46cb-b899-692b36f810a7,prenatal.moi,available,25.99,25.99,medium,low,8,namesilo,,,22/09/2026 05:55
 b837e33d-f920-4838-9303-9556fba53012,barely.moi,available,39.99,,medium,low,6,name.com,,,
 e5fdfa26-a783-4066-93c0-a79cd005fd32,romancatholic.moi,available,25.99,25.99,medium,low,14,namesilo,,,
-3f55c1ea-9184-48b9-9a82-3e837439dea5,custom.moi,available,25.99,25.99,medium,low,6,namesilo,,,20/09/2026 02:48
-eb049381-b0f9-4a8d-b0ff-772ab8a5d427,conclusive.moi,available,25.99,25.99,high,low,10,namesilo,,,
+3f55c1ea-9184-48b9-9a82-3e837439dea5,custom.moi,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 10:51
+eb049381-b0f9-4a8d-b0ff-772ab8a5d427,conclusive.moi,available,39.99,39.99,medium,low,10,name.com,,,23/09/2026 19:11
 424e734c-5e4e-4dee-981f-a8d286b3913e,necessary.moi,available,39.99,,high,low,9,name.com,,,
 c2047a8e-67bb-40c9-9c35-8992f03fcdc8,fireengine.moi,available,39.99,,high,low,11,name.com,,,
 011cc4c2-3fe9-404f-a9bf-a153293a4186,witty.moi,available,25.99,25.99,high,low,5,namesilo,,,
@@ -454,12 +454,12 @@ d47823d7-53d2-46ba-8a95-5e23cf8feadd,sushibar.moi,available,39.99,,high,low,9,na
 6f6c3a4e-4b16-431b-b0cf-7a0df0120db3,pricing.moi,available,25.99,25.99,high,low,7,namesilo,,,
 4896b256-075e-4c20-9213-0bac1515ca0b,softwareengineer.moi,available,25.99,25.99,high,low,17,namesilo,,,
 5d73b6b1-226c-4ba3-8300-e12c304797b5,paperback.moi,available,25.99,25.99,high,low,9,namesilo,,,
-069cedf7-271d-4ebd-970e-8d3f8f0f810f,communal.moi,available,25.99,25.99,high,low,8,namesilo,,,
+069cedf7-271d-4ebd-970e-8d3f8f0f810f,communal.moi,available,25.99,25.99,low,low,8,namesilo,,,23/09/2026 16:10
 20a25ed9-ea17-4c05-a3cb-0c078706589e,particular.moi,available,25.99,25.99,high,low,10,namesilo,,,
 8a03c518-fca5-424e-a9c4-8faec7eb87d8,poor.moi,available,25.99,25.99,medium,low,4,namesilo,,,
 ef4f7c9f-f9d0-4e3b-9001-f766ebe910b7,toiletroll.moi,available,39.99,,high,low,11,name.com,,,
 b7da89b7-1e8c-4501-aa99-ccd5ec7a97fd,bruise.moi,available,25.99,25.99,medium,low,6,namesilo,,,
-286d28d5-60a5-4a07-aaf9-3dc5ccc2d59d,confirming.moi,available,18.99,39.99,high,low,10,name.com,,,
+286d28d5-60a5-4a07-aaf9-3dc5ccc2d59d,confirming.moi,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 19:45
 3882f2d0-723e-47ab-bbbe-b24204b97bf5,tourist.moi,available,25.99,25.99,high,low,7,namesilo,,,
 dd6f9e29-3a10-423c-a551-062e3fc1152b,wild.moi,available,25.99,25.99,low,low,4,namesilo,,,22/09/2026 17:18
 437b088f-1064-428f-bc33-d91285aee874,spray.moi,available,25.99,25.99,high,low,5,namesilo,,,
@@ -471,7 +471,7 @@ dc76a7d7-aae2-4efb-aac2-1530659001fa,everyday.moi,available,39.99,,high,low,8,na
 2389379c-5e4f-460b-b9d4-657f101027b6,inspiring.moi,available,25.99,25.99,high,low,9,namesilo,,,
 c2cf0b96-7625-4116-b0c7-139815422cf4,holly.moi,available,25.99,25.99,medium,low,5,namesilo,,,
 92236dbc-5ad5-4fa6-8796-58a886cebc68,stops.moi,available,39.99,,high,low,5,name.com,,,
-2c032def-9f41-44ce-8594-741fe6cc5c1c,correlate.moi,available,18.99,39.99,high,low,9,name.com,,,
+2c032def-9f41-44ce-8594-741fe6cc5c1c,correlate.moi,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 23:49
 f19577f4-997a-4225-a5e9-175e1737e233,icon.moi,available,25.99,25.99,high,medium,4,namesilo,,,
 5a320e4f-e12b-43ac-b98c-bf010097b05b,club.moi,premium,625,,high,low,4,name.com,,,
 98021282-a145-4935-a3b9-dcd65e21b608,triple.moi,available,25.99,25.99,high,low,6,namesilo,,,
@@ -501,15 +501,15 @@ ef308ea1-9d6f-4c0a-acf9-f8a43fb9df00,seoul.moi,available,25.99,25.99,high,low,5,
 3add4557-7669-45ae-8e40-7ace8c1fb39e,oak.moi,available,25.99,25.99,high,low,3,namesilo,,,
 10b26c55-ebba-40f6-84ef-52eb470f5f54,russian.moi,available,39.99,,high,low,7,name.com,,,
 d101848b-2194-4416-b88e-55da25819d3c,nebula.moi,available,25.99,25.99,high,low,6,namesilo,,,
-001bb276-31a6-45b1-81ae-a20fe05d8d67,engineer.moi,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 14:35
-ced7355c-07f7-4ba1-81a5-6682382caf6c,textbook.moi,available,25.99,25.99,high,low,8,namesilo,,,
+001bb276-31a6-45b1-81ae-a20fe05d8d67,engineer.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 17:26
+ced7355c-07f7-4ba1-81a5-6682382caf6c,textbook.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 13:09
 233db8b2-346f-462a-a8fc-06a109123005,real.moi,premium,625,,high,medium,4,name.com,,,
-3501f5ca-1cd3-492b-989a-7b88aee842c6,wall.moi,available,25.99,25.99,low,low,4,namesilo,,,19/09/2026 13:29
+3501f5ca-1cd3-492b-989a-7b88aee842c6,wall.moi,available,25.99,25.99,low,low,4,namesilo,,,23/09/2026 16:20
 630f9976-0bf7-4767-80d3-b594996542a5,literal.moi,available,25.99,25.99,medium,low,7,namesilo,,,
 e3c37e65-36e6-4210-84aa-b6b9f8437bef,wrongly.moi,available,25.99,25.99,medium,low,7,namesilo,,,
 39e64d43-0b0e-4920-b91f-cee66f8d0b9d,foolish.moi,available,18.99,39.99,medium,low,7,name.com,,,
 aa7a74e5-644d-4ea3-89bc-8f21d703e151,yourstruly.moi,available,25.99,25.99,medium,low,11,namesilo,,,
-c4f57bf2-abc9-41fe-82b2-d2e294ecbd1c,central.moi,available,25.99,25.99,high,low,7,namesilo,,,
+c4f57bf2-abc9-41fe-82b2-d2e294ecbd1c,central.moi,available,25.99,25.99,low,low,7,namesilo,,,23/09/2026 12:46
 35a78dbb-3d33-4e18-927e-6c9256538f8e,strengthen.moi,available,25.99,25.99,high,low,10,namesilo,,,
 efd31112-53e2-4d61-af15-49292132f03c,nowadays.moi,available,25.99,25.99,medium,low,8,namesilo,,,
 a4c23771-ec92-46ed-824f-f6475d74479f,secondguess.moi,available,25.99,25.99,medium,low,12,namesilo,,,
@@ -548,19 +548,19 @@ ad69e73e-0efe-438a-91c7-cd2da9987f2c,peer.moi,available,39.99,,high,low,4,name.c
 6ba45c55-755a-4038-a5a7-7c623579f7a6,chased.moi,available,25.99,25.99,high,low,6,namesilo,,,
 e445e1c2-dce1-4245-a947-d2a886e90080,pointless.moi,available,25.99,25.99,medium,low,9,namesilo,,,
 727bae0e-72ae-4cfc-89e5-47b29be7de28,tired.moi,available,25.99,25.99,low,low,5,namesilo,,,22/09/2026 16:41
-9c4e5dcc-28f3-4469-8701-5fb67dc80ed6,positive.moi,available,25.99,25.99,high,low,8,namesilo,,,
+9c4e5dcc-28f3-4469-8701-5fb67dc80ed6,positive.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 14:53
 d6b94084-e2eb-45f3-92fc-89874a00e9dc,better.moi,available,25.99,25.99,medium,low,6,namesilo,,,22/09/2026 20:11
-2667287e-31e5-417c-992d-fc08660ea6f6,conscious.moi,available,18.99,39.99,high,low,9,name.com,,,
+2667287e-31e5-417c-992d-fc08660ea6f6,conscious.moi,available,39.99,39.99,medium,low,9,name.com,,,23/09/2026 20:38
 112be78d-daad-4a25-a4d5-2213c0422ba6,stations.moi,available,25.99,25.99,high,low,8,namesilo,,,
 04fda0f0-d09e-4ab3-beb7-b5ee839ada0f,intheend.moi,available,25.99,25.99,medium,low,10,namesilo,,,
 b5214760-d59c-4d05-b928-25958c049492,converted.moi,available,25.99,25.99,low,low,9,namesilo,,,23/09/2026 00:43
 3149cab7-9e36-4920-86f3-fac633878a2f,virtuoso.moi,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 17:38
 1caaa866-f237-447c-84a8-f96e3ae7b3a4,ensure.moi,available,25.99,25.99,high,low,6,namesilo,,,
-36cf79b0-008a-4ef9-9ff4-70a09862b900,shed.moi,available,25.99,25.99,medium,low,4,namesilo,,,
+36cf79b0-008a-4ef9-9ff4-70a09862b900,shed.moi,available,39.99,39.99,low,low,4,name.com,,,23/09/2026 12:18
 344322ad-b3aa-4178-b7dd-b63af63b2c7c,onebyone.moi,available,25.99,25.99,medium,low,10,namesilo,,,
 e8e479cc-d4de-4352-9c14-c761ac063f84,goin.moi,available,25.99,25.99,low,low,5,namesilo,,,16/09/2026 23:43
 f0f9098b-c966-4cd8-b049-cede050dabc2,fatigue.moi,available,25.99,25.99,high,low,7,namesilo,,,
-43bd2603-c8a0-4242-b881-4e4dabab52a9,sly.moi,available,18.99,39.99,medium,low,3,name.com,,,
+43bd2603-c8a0-4242-b881-4e4dabab52a9,sly.moi,available,25.99,25.99,low,low,3,namesilo,,,24/09/2026 01:29
 1a569bc9-be05-476e-9f52-af5639c5f8ef,beguiling.moi,available,25.99,25.99,medium,low,9,namesilo,,,22/09/2026 01:38
 5ce97df9-6dfb-4358-97b4-cfd0d1ed8c00,supermodel.moi,available,39.99,,high,low,10,name.com,,,
 f22328f6-a191-4245-a89a-52db54531d38,fannyadams.moi,available,25.99,25.99,medium,low,11,namesilo,,,
@@ -575,18 +575,18 @@ ab12dafa-0bb1-4b2f-864e-10bd618e6c2f,shadow.moi,available,25.99,25.99,medium,low
 78c7a936-4bbd-4ec3-b92d-c762390362ee,working.moi,available,25.99,25.99,medium,low,7,namesilo,,,19/09/2026 07:09
 56bd4fdc-b835-40cb-8796-6e8a6bccad1e,people.moi,premium,89.25,89.25,high,medium,6,namesilo,,,
 05b411ba-1128-4bb0-a4f1-712d10d1e051,eve.moi,premium,250,,high,medium,3,name.com,,,
-c03065ae-d932-41ce-a327-5a7594180b79,bust.moi,available,25.99,25.99,high,low,4,namesilo,,,
+c03065ae-d932-41ce-a327-5a7594180b79,bust.moi,available,25.99,25.99,medium,low,4,namesilo,,,23/09/2026 09:51
 2f418fde-ed0b-4e9f-892f-6ca2b0271b33,heavyhanded.moi,available,25.99,25.99,medium,low,12,namesilo,,,
 ac44278a-9d10-4a9b-a0de-b7446f4ee4d1,worker.moi,available,25.99,25.99,high,low,6,namesilo,,,
 e5a07385-de23-4ba3-899a-f9e22bddf359,granola.moi,available,39.99,,high,low,7,name.com,,,
 d6036b09-f27f-4a63-a05c-e0432ef520a1,eid.moi,available,25.99,25.99,high,low,3,namesilo,,,
 59648210-186c-4d56-8833-9bcdf19aa2ba,requirement.moi,available,25.99,25.99,high,low,11,namesilo,,,
 b082cb1f-12c8-41c3-b1be-2545fefa936c,advisor.moi,available,25.99,25.99,high,low,7,namesilo,,,
-380c835e-6068-408e-840d-7da432eae69c,center.moi,available,25.99,25.99,high,low,6,namesilo,,,
+380c835e-6068-408e-840d-7da432eae69c,center.moi,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 13:19
 d1ba6739-8298-4dd7-aa16-13b1da15e12d,scented.moi,available,25.99,25.99,high,low,7,namesilo,,,
 9e6e1c2f-b777-49a1-a438-225b823b0e57,monday.moi,available,25.99,25.99,high,low,6,namesilo,,,
 95f0dcb0-5f57-4c2a-96df-602b9ae369b6,complicate.moi,available,25.99,25.99,low,low,10,namesilo,,,08/09/2026 14:25
-cade6ca7-94e4-48a9-a6f3-70dd36437603,concerned.moi,available,18.99,39.99,medium,low,9,name.com,,,
+cade6ca7-94e4-48a9-a6f3-70dd36437603,concerned.moi,available,18.99,39.99,medium,low,9,name.com,,,23/09/2026 18:58
 8b54aef9-7cdd-4ae7-9b8d-4f996b2b0abb,tentative.moi,available,25.99,25.99,high,low,9,namesilo,,,
 594ff472-4fd6-49e6-afc7-030eb7c07a4c,serialkiller.moi,available,25.99,25.99,medium,low,13,namesilo,,,
 3db08698-b344-4abf-9485-4c37077cd81f,oxford.moi,available,25.99,25.99,high,low,6,namesilo,,,
@@ -631,7 +631,7 @@ fdef0e82-49df-4e34-9594-0ad5a925e76a,years.moi,available,39.99,,high,low,5,name.
 5ee75a91-7161-4801-a3c7-cf970cdcf424,bought.moi,available,25.99,25.99,high,low,6,namesilo,,,
 9451651a-6f78-414b-8ceb-259809ec78c4,resolute.moi,available,25.99,25.99,high,low,8,namesilo,,,
 73275b53-c5d6-495d-8a66-04329b5f91ff,commodity.moi,available,25.99,25.99,high,low,9,namesilo,,,
-207b7cb4-3c38-474d-bb54-f91b1af11e05,contrary.moi,available,18.99,39.99,high,low,8,name.com,,,
+207b7cb4-3c38-474d-bb54-f91b1af11e05,contrary.moi,available,25.99,25.99,low,low,8,namesilo,,,23/09/2026 22:29
 1f28eefb-4434-4acf-8430-6dbcbc181fb7,pyramid.moi,available,25.99,25.99,medium,low,7,namesilo,,,08/09/2026 13:53
 6e11e1de-7d24-49fa-a30d-73f162224413,pandora.moi,available,25.99,25.99,high,low,7,namesilo,,,
 588d2786-375a-4b83-841a-23289bf96916,sunroof.moi,available,39.99,,high,low,7,name.com,,,
@@ -647,21 +647,21 @@ a27701d0-9839-47e4-85cf-a11a34191c64,lookinto.moi,available,25.99,25.99,high,low
 91d0a551-2dd8-4ba3-8a70-d181e9d7cc58,snake.moi,available,25.99,25.99,medium,low,5,namesilo,,,
 69374c81-354e-4fe4-a53c-005b9a2530fd,testing.moi,available,39.99,,high,low,7,name.com,,,
 aff52fdd-7df0-4213-b66f-76b853cb65d2,serveup.moi,available,25.99,25.99,high,low,8,namesilo,,,
-8f55352d-fd43-43ad-8c1c-87267c444b55,shiny.moi,available,25.99,25.99,high,low,5,namesilo,,,
+8f55352d-fd43-43ad-8c1c-87267c444b55,shiny.moi,available,25.99,25.99,medium,low,5,namesilo,,,23/09/2026 11:51
 c4a3dd0d-b4f5-45c8-aceb-ca0d8e66b8ac,loose.moi,available,25.99,25.99,low,low,5,namesilo,,,22/09/2026 10:42
 44954ddc-9bc8-4afc-b6d8-82d932c5d038,building.moi,available,25.99,25.99,high,low,8,namesilo,,,
 3f401a2f-dcd0-4946-bf6d-701f0346aee8,taco.moi,available,39.99,,high,low,4,name.com,,,
 304a3cbd-d383-4ffb-aa4c-9ee47e22b8d1,indian.moi,available,25.99,25.99,low,low,6,namesilo,,,22/09/2026 04:13
 828e0a59-d4a4-4264-8f8d-3280d54688ab,mining.moi,available,25.99,25.99,medium,low,6,namesilo,,,
-a0ed7826-2f78-4781-bcaf-4860175a9f05,composite.moi,available,18.99,39.99,high,low,9,name.com,,,
+a0ed7826-2f78-4781-bcaf-4860175a9f05,composite.moi,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 17:39
 965b5b13-54a1-4214-9a7f-0de61d7f95b5,knowing.moi,available,25.99,25.99,high,low,7,namesilo,,,
 bc551be8-9b3f-4f67-ae15-eb44813e2832,secured.moi,available,25.99,25.99,high,low,7,namesilo,,,
 6f8a5418-04bc-4085-9260-3dec07cb0826,dollarsign.moi,available,39.99,,high,low,11,name.com,,,
-03139b36-af7f-413e-9bcf-af2d93e5ef58,desired.moi,available,18.99,39.99,high,low,7,name.com,,,
+03139b36-af7f-413e-9bcf-af2d93e5ef58,desired.moi,available,25.99,25.99,medium,low,7,namesilo,,,24/09/2026 00:57
 97823c43-149a-44c9-ae2a-53c451b05931,tug.moi,available,25.99,25.99,high,low,3,namesilo,,,
 58baa830-3902-4621-95bc-575badd8c43d,she.moi,available,25.99,25.99,high,low,3,namesilo,,,
 5fa518aa-acd1-4ecd-9293-1a27e66990cd,plug.moi,available,25.99,25.99,high,low,4,namesilo,,,
-1631b540-e10c-46a8-ab98-ea8607e9162a,bullying.moi,available,25.99,25.99,medium,low,8,namesilo,,,
+1631b540-e10c-46a8-ab98-ea8607e9162a,bullying.moi,available,25.99,25.99,low,low,8,namesilo,,,23/09/2026 10:48
 7aa0cc0b-510b-4371-9720-d1f76be3cbd1,financialmarket.moi,available,25.99,25.99,medium,low,16,namesilo,,,
 c3234e5b-c894-411c-ac8e-359684e0bba5,beer.moi,premium,937.5,,high,low,4,name.com,,,
 bd307138-d6d8-431f-b1ec-81018d0a0183,mostly.moi,available,25.99,25.99,medium,low,6,namesilo,,,
@@ -675,7 +675,7 @@ b97cff9d-de52-4e55-bd55-f50693bc05e4,ordinary.moi,available,25.99,25.99,high,low
 37c02092-ba5b-4b91-8b45-1d56818eb8bb,proper.moi,available,39.99,,high,low,6,name.com,,,
 9a6f47bb-3c0d-45cd-9a72-9e3410afa068,faith.moi,available,25.99,25.99,high,low,5,namesilo,,,
 58961e61-2467-433d-a789-ae342f983521,arabic.moi,available,25.99,25.99,medium,low,6,namesilo,,,22/09/2026 07:33
-ea1d8930-c8f8-4ba3-815a-725fe3e17c2c,obese.moi,available,18.99,39.99,high,low,5,name.com,,,
+ea1d8930-c8f8-4ba3-815a-725fe3e17c2c,obese.moi,available,25.99,25.99,low,low,5,namesilo,,,23/09/2026 23:32
 98e7019f-1ff9-49b8-992a-37898682aaa7,petty.moi,available,25.99,25.99,medium,low,5,namesilo,,,
 e372c2e0-0af4-44f3-a270-744ec85a37be,below.moi,available,18.99,39.99,medium,low,5,name.com,,,
 77da4822-57d6-4716-adf5-32ca332d0279,dauntless.moi,available,25.99,25.99,medium,low,9,namesilo,,,22/09/2026 12:12
@@ -688,7 +688,7 @@ b9d92fae-a1a5-4c25-a34b-4f89bb4e3af6,fair.moi,available,25.99,25.99,medium,low,4
 b661cf16-40fd-4e2f-bfed-721f52d50151,beg.moi,available,25.99,25.99,medium,low,3,namesilo,,,
 9d39b624-1a6a-4cd0-b1ff-c1369c63590c,regret.moi,available,25.99,25.99,medium,low,6,namesilo,,,
 a324e89e-3723-42d9-9af8-f0a13d73682b,resonating.moi,available,25.99,25.99,medium,low,10,namesilo,,,
-9be67762-20a4-4976-a0f4-21f39b31431b,quality.moi,available,25.99,25.99,high,low,7,namesilo,,,
+9be67762-20a4-4976-a0f4-21f39b31431b,quality.moi,available,25.99,25.99,medium,low,7,namesilo,,,23/09/2026 14:21
 c98213d8-b391-47f1-a63a-4b5477d3fe2c,until.moi,available,25.99,25.99,medium,low,5,namesilo,,,
 9d8018a7-82c7-4c29-955a-17761b994a6a,business.moi,premium,3450,3450,medium,low,8,namesilo,,,23/09/2026 02:32
 b38200da-a27c-41cd-8e63-8662bb5e287f,tracy.moi,available,25.99,25.99,medium,low,5,namesilo,,,
@@ -730,7 +730,7 @@ e6fe7b25-c2e4-4893-a0e9-da4fe5ebf17a,sheraton.moi,available,25.99,25.99,high,hig
 a47260f1-7c7b-4093-bd9f-66a81eb6a429,contempt.moi,available,25.99,25.99,medium,low,8,namesilo,,,
 aad8667f-4931-45a0-97e7-be764b61b173,modesty.moi,available,39.99,,high,low,7,name.com,,,
 3670b30c-ad0e-45b7-9639-9f776ed6caa2,adequate.moi,available,18.99,39.99,medium,low,8,name.com,,,21/09/2026 18:22
-72a02379-e4ea-4628-a570-5593ee111f41,environment.moi,available,25.99,25.99,medium,low,11,namesilo,,,19/09/2026 04:45
+72a02379-e4ea-4628-a570-5593ee111f41,environment.moi,available,25.99,25.99,medium,low,11,namesilo,,,23/09/2026 08:17
 47113dd6-ce63-4bd3-934e-cc445c4a1e07,dice.moi,available,25.99,25.99,medium,low,4,namesilo,,,
 ede13dfa-7b3c-419e-b338-55464866a05e,spoken.moi,available,25.99,25.99,high,low,6,namesilo,,,
 c0b84bfe-65c1-42e6-9345-4c509ec68d99,respectful.moi,available,39.99,,high,low,10,name.com,,,
@@ -758,7 +758,7 @@ e47cc289-e05b-468d-8c70-5a6a8145b5f3,feminine.moi,available,25.99,25.99,high,low
 4e4733ea-027f-40c3-803d-d9f911972422,abdominal.moi,available,25.99,25.99,low,low,9,namesilo,,,21/09/2026 13:47
 276e33cc-c301-4b56-bcc6-c0f5e34bdf1b,aim.moi,available,25.99,25.99,high,low,3,namesilo,,,
 5db8a7b7-cf89-441c-9148-63151c035c83,rubber.moi,available,39.99,,high,low,6,name.com,,,
-8a1aac4a-dd50-41f3-af2f-968a9d5c27a5,heart.moi,available,25.99,25.99,high,low,5,namesilo,,,
+8a1aac4a-dd50-41f3-af2f-968a9d5c27a5,heart.moi,available,25.99,25.99,medium,low,5,namesilo,,,23/09/2026 13:28
 e44b0169-0e8f-4c9d-88d0-f832712e7681,interstate.moi,available,25.99,25.99,high,low,10,namesilo,,,
 f9a1a05c-7790-4646-a974-947670494c81,newbie.moi,available,25.99,25.99,high,low,6,namesilo,,,
 d5e4d097-7622-4c6c-910e-cc3ce8f81a6c,bash.moi,available,25.99,25.99,high,low,4,namesilo,,,
@@ -787,13 +787,13 @@ cef41504-fde3-4b51-914a-e9f1a7be8df8,altruistic.moi,available,25.99,25.99,medium
 c8dfa5f5-2bbf-4067-bbb4-fab79e8b7053,bestpractice.moi,available,25.99,25.99,high,low,13,namesilo,,,
 549a5cf1-0830-4ada-9fe2-ebc1e77982e2,boards.moi,available,25.99,25.99,high,low,6,namesilo,,,
 5c698e10-478f-4a4a-8ee4-3aff5bf139fa,border.moi,available,25.99,25.99,low,low,6,namesilo,,,23/09/2026 00:10
-887aa3e0-06c8-4b8e-9ccf-d8206e062fd9,strained.moi,available,18.99,39.99,medium,low,8,name.com,,,
+887aa3e0-06c8-4b8e-9ccf-d8206e062fd9,strained.moi,available,18.99,39.99,low,low,8,name.com,,,23/09/2026 21:17
 c5ca310f-6ecd-442c-bcb6-694c32378b7a,sufficient.moi,available,25.99,25.99,high,low,10,namesilo,,,
 499f4cd4-8996-467c-8863-8b2d6266144b,bychance.moi,available,25.99,25.99,medium,low,9,namesilo,,,
 611122a9-847c-4698-b4da-1ee115939303,shop.moi,premium,3125,,high,medium,4,name.com,,,
 7019ee8d-b162-4bf7-ba05-c65a655b8682,lawn.moi,available,25.99,25.99,medium,low,4,namesilo,,,
 3d4761a4-e874-426c-9a8f-0d1f1a11070a,arithmetic.moi,available,25.99,25.99,low,low,10,namesilo,,,22/09/2026 07:53
-cb0a0a48-e9b6-474a-9bae-c2b328248e89,forge.moi,available,18.99,39.99,medium,medium,5,name.com,,,
+cb0a0a48-e9b6-474a-9bae-c2b328248e89,forge.moi,available,25.99,25.99,low,low,5,namesilo,,,24/09/2026 00:25
 a4952ca9-efd8-4a8d-9a7c-5c2f581677e8,pretence.moi,available,25.99,25.99,medium,low,8,namesilo,,,
 e31b5f6b-05a8-46b6-b35b-787b41ecf6ce,pound.moi,available,39.99,,medium,low,5,name.com,,,
 be459257-9bbb-4fa2-bdd8-0713bce0294b,achiever.moi,available,25.99,25.99,medium,low,8,namesilo,,,
@@ -820,11 +820,11 @@ f7e89386-b71b-4cb9-b479-0f4466c211af,lake.moi,available,25.99,25.99,high,low,4,n
 fe4b8711-5464-4d37-8f83-7df6e0696dc2,float.moi,available,25.99,25.99,high,low,5,namesilo,,,
 e6c648b9-19be-4493-ac9e-d67f13ed3805,supervisor.moi,available,25.99,25.99,high,low,10,namesilo,,,
 81529beb-7c27-4cd4-89c6-f3d950848fc8,compute.moi,available,25.99,25.99,medium,low,7,namesilo,,,19/09/2026 14:03
-5edcf8b4-ea79-4533-b335-916e9125ee50,shining.moi,available,25.99,25.99,high,low,7,namesilo,,,
+5edcf8b4-ea79-4533-b335-916e9125ee50,shining.moi,available,25.99,25.99,medium,low,7,namesilo,,,23/09/2026 11:49
 b572ce6e-1b00-42b2-a4cf-962135b40e87,antibiotic.moi,available,25.99,25.99,medium,low,10,namesilo,,,22/09/2026 06:14
 f898912b-3ec0-4a38-81a4-8023db41d65a,monumental.moi,available,25.99,25.99,high,low,10,namesilo,,,
 5b9cccb1-6687-462c-9a2d-f00339390918,supported.moi,available,25.99,25.99,high,low,9,namesilo,,,
-c267bb33-2294-416c-b174-4814ce05e8a1,laboratory.moi,available,25.99,25.99,high,low,10,namesilo,,,
+c267bb33-2294-416c-b174-4814ce05e8a1,laboratory.moi,available,25.99,25.99,medium,low,10,namesilo,,,24/09/2026 03:29
 4731e537-8b75-445a-a0f6-0357cb0691dd,normally.moi,available,25.99,25.99,high,low,8,namesilo,,,
 9e6aa30f-93fa-43a2-872a-3159ff8c2e12,tasting.moi,available,25.99,25.99,high,low,7,namesilo,,,
 85d29593-f6a6-46f9-92bc-01263e0914f1,expedition.moi,available,25.99,25.99,high,low,10,namesilo,,,
@@ -844,7 +844,7 @@ b4a74d9a-67a8-4309-807d-77fa97774769,facilitate.moi,available,25.99,25.99,high,l
 e21e3f05-1e09-48e5-a4ef-6854f0cf8f8e,articulate.moi,available,25.99,25.99,medium,low,10,namesilo,,,22/09/2026 08:42
 f819902e-f259-4a11-859c-41fbf9e1c126,norm.moi,available,25.99,25.99,medium,low,4,namesilo,,,22/09/2026 14:30
 4b263813-1d04-42a6-a772-5e3dcbc7a278,into.moi,premium,116,116,medium,low,4,namesilo,,,
-ee78f909-27a0-408d-b656-81d8b1760a9a,tabby.moi,available,25.99,25.99,medium,low,5,namesilo,,,
+ee78f909-27a0-408d-b656-81d8b1760a9a,tabby.moi,available,25.99,25.99,low,low,5,namesilo,,,23/09/2026 09:31
 a2430d4a-4ac7-4987-a4b6-4bc20eb9da69,holdoff.moi,available,25.99,25.99,high,low,8,namesilo,,,
 7ff3e49d-7aaf-4e3f-9d24-b3bbde89325e,grinning.moi,available,25.99,25.99,high,low,8,namesilo,,,
 fdf70f55-6180-4136-8576-0a5ce9a6704d,rigid.moi,available,39.99,,medium,low,5,name.com,,,
@@ -858,7 +858,7 @@ c93dbef9-73cb-405e-98c4-b9d259a83cf4,indiana.moi,available,25.99,25.99,medium,lo
 e556a861-3750-4f7a-9b87-283fb7666993,jameswatt.moi,available,25.99,25.99,high,low,10,namesilo,,,
 839090f9-60c0-41af-a96b-2d468390ed2f,broadly.moi,available,25.99,25.99,medium,low,7,namesilo,,,
 2bea7088-1ebe-4cf1-9f3f-3102f6153585,art.moi,premium,1250,1250,medium,low,3,name.com,,,23/09/2026 03:47
-90b1d2b4-cfd2-4080-8091-36dc96b9f076,statement.moi,available,25.99,25.99,high,low,9,namesilo,,,
+90b1d2b4-cfd2-4080-8091-36dc96b9f076,statement.moi,available,25.99,25.99,low,low,9,namesilo,,,23/09/2026 08:02
 d6796908-e755-44a0-924b-3cb2e05f882b,obtuse.moi,available,18.99,39.99,high,low,6,name.com,,,
 031f59f9-795c-4f78-81e1-66e9a07f45bc,longer.moi,available,39.99,,high,low,6,name.com,,,
 6dde888a-2b14-4061-945c-5f53a855ce5a,devote.moi,available,25.99,25.99,high,low,6,namesilo,,,
@@ -884,7 +884,7 @@ a0a1c73c-ec7d-4ce7-90a0-f459b6c64388,surely.moi,available,25.99,25.99,high,low,6
 9b48e152-a5b0-4b1c-8757-bdfc25f6619c,delicate.moi,available,18.99,39.99,high,low,8,name.com,,,
 7b1ac432-a0d3-4f47-b922-d4d85059cae7,wrong.moi,available,25.99,25.99,high,low,5,namesilo,,,
 33e83ee1-fb28-4ef4-be99-3fc69228f386,omen.moi,available,25.99,25.99,high,low,4,namesilo,,,
-cf8c977c-f149-4020-8fd0-8d5df8e76f20,confirmed.moi,available,18.99,39.99,medium,low,9,name.com,,,
+cf8c977c-f149-4020-8fd0-8d5df8e76f20,confirmed.moi,available,18.99,39.99,medium,low,9,name.com,,,23/09/2026 19:53
 f5a90617-4be3-4390-bc8f-41ed51c3b87c,between.moi,available,25.99,25.99,high,low,7,namesilo,,,
 0ab9eaeb-5939-453b-aae5-de9b88ba7c43,con.moi,premium,242,242,medium,low,3,namesilo,,,
 e27fe551-5188-4609-af69-0afbc06859fd,genius.moi,available,25.99,25.99,medium,low,6,namesilo,,,21/09/2026 17:41
@@ -896,7 +896,7 @@ bccc2871-04c3-4a42-844d-b2703e862d9f,maze.moi,available,25.99,25.99,medium,low,4
 d587f025-1915-4ff1-a316-25911bbd96a3,import.moi,available,25.99,25.99,high,low,6,namesilo,,,
 638b3600-f310-4704-a7e3-2e2f511cd8b4,lobby.moi,available,25.99,25.99,high,low,5,namesilo,,,
 3e47fc63-5c34-4554-8cee-f7c1d0120335,swastika.moi,available,39.99,,medium,low,8,name.com,,,
-a37aef8f-e8b8-4d54-954a-eb8d04a9aacc,organise.moi,available,18.99,39.99,high,low,8,name.com,,,
+a37aef8f-e8b8-4d54-954a-eb8d04a9aacc,organise.moi,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 23:21
 ced966ac-0e55-41eb-9109-a6bdac757a76,nest.moi,available,39.99,,high,medium,4,name.com,,,
 5180e4ae-5051-4d5c-b5e8-ef4b02402f1b,conscience.moi,available,25.99,25.99,high,low,10,namesilo,,,
 c4dab3cd-82f7-466e-a22d-b4abd87953ba,adorable.moi,available,18.99,39.99,medium,low,8,name.com,,,21/09/2026 19:18
@@ -923,7 +923,7 @@ cec5d0ea-2f97-4b64-bbf3-cf519e82970c,however.moi,available,25.99,25.99,high,low,
 237ca0d6-7447-422e-9297-4da85785061d,agreed.moi,available,25.99,25.99,medium,low,6,namesilo,,,21/09/2026 23:21
 63a78e82-f044-483d-b0a5-de87f7752324,rhythmic.moi,available,39.99,,high,low,8,name.com,,,
 952913ee-b61f-4575-a85f-2c48f2a74f35,bryan.moi,premium,250,,medium,low,5,name.com,,,
-5c911ce6-73a9-4ce6-869c-8f84d369f56f,champagne.moi,premium,937.5,,high,low,9,name.com,,,
+5c911ce6-73a9-4ce6-869c-8f84d369f56f,champagne.moi,premium,960,960,medium,low,9,namesilo,,,23/09/2026 10:06
 4882081a-9c17-4d44-ab60-cda57d43cceb,speculate.moi,available,25.99,25.99,high,low,9,namesilo,,,
 8d632de2-f80a-4918-a276-5c594abce7fb,fashion.moi,premium,3125,,high,medium,7,name.com,,,
 8322b1f8-d02e-4258-96f9-7938e64c23ae,minuscule.moi,available,25.99,25.99,medium,low,9,namesilo,,,
@@ -938,7 +938,7 @@ aef01e29-1a67-4bfc-b33c-53d950bb7319,solve.moi,available,25.99,25.99,high,low,5,
 c4fb1392-cbeb-40b9-b748-937d2a694037,upto.moi,available,25.99,25.99,medium,low,5,namesilo,,,
 9e798f21-522e-4c15-8560-c4ac3ba3cf0e,industrialize.moi,available,25.99,25.99,medium,low,13,namesilo,,,
 4358b11b-36a4-4711-a460-047801bc0a85,prone.moi,available,25.99,25.99,medium,low,5,namesilo,,,
-48128634-523a-4c97-a7a7-e90c7b0e1abe,beauty.moi,premium,375,,high,low,6,name.com,,,
+48128634-523a-4c97-a7a7-e90c7b0e1abe,beauty.moi,premium,384,384,medium,low,6,namesilo,,,23/09/2026 06:13
 788a5a45-af8c-401b-9fbb-ccfd7c6450d2,lay.moi,available,25.99,25.99,medium,low,3,namesilo,,,
 da5b1565-4071-46f0-b37c-9216cb9d83c8,nonstop.moi,available,25.99,25.99,medium,low,7,namesilo,,,22/09/2026 08:07
 f187dafc-d481-4ba5-976d-7b66c7d8b989,spring.moi,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 01:43
@@ -954,20 +954,20 @@ ffed2b6d-d956-4ec8-8683-266428c95782,chart.moi,available,25.99,25.99,high,low,5,
 2857c7e4-1908-4082-a47e-771584956698,eliminate.moi,available,25.99,25.99,high,low,9,namesilo,,,
 6f30f079-0d6f-426a-b3d6-6e91b9300a2e,whiz.moi,available,18.99,39.99,medium,low,4,name.com,,,21/09/2026 18:01
 e7876497-c6b0-42a1-8c43-f0d864419cff,prepare.moi,available,25.99,25.99,high,low,7,namesilo,,,
-3394b51d-3975-403a-82eb-27515220244f,imaginable.moi,available,18.99,39.99,medium,low,10,name.com,,,
+3394b51d-3975-403a-82eb-27515220244f,imaginable.moi,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 18:44
 4ecb47ab-d4ae-4007-90ca-666edd79df08,ticking.moi,available,39.99,,medium,low,7,name.com,,,
 ef6beab7-01f7-40f3-89de-d8366dd7f668,ground.moi,available,25.99,25.99,medium,low,6,namesilo,,,22/09/2026 17:38
-a8e3b099-3a3b-46a3-8047-c275d8d16416,medicine.moi,premium,640,640,medium,low,8,namesilo,,,20/09/2026 02:42
+a8e3b099-3a3b-46a3-8047-c275d8d16416,medicine.moi,premium,640,640,medium,low,8,namesilo,,,23/09/2026 06:09
 e327d374-1b5d-47f9-9975-2275bb560c83,hair.moi,available,25.99,25.99,high,low,4,namesilo,,,
 cf5d17b7-5258-410a-b33b-5bdaf76bf108,completely.moi,available,25.99,25.99,low,low,10,namesilo,,,22/09/2026 00:16
 30feee1c-e753-4098-b74d-a86d161100ce,boxcoat.moi,available,39.99,,medium,low,8,name.com,,,
 f9acf16e-7cd6-4555-92c8-2a937e3e893f,awful.moi,available,25.99,25.99,low,low,5,namesilo,,,22/09/2026 15:06
 be75b49e-7344-4ac5-818d-c3c51381c328,anyone.moi,available,39.99,,medium,low,6,name.com,,,
-e3488d83-068e-4d3d-a7de-9a55e91ffe82,cunning.moi,available,18.99,39.99,medium,low,7,name.com,,,
+e3488d83-068e-4d3d-a7de-9a55e91ffe82,cunning.moi,available,25.99,25.99,low,low,7,namesilo,,,24/09/2026 01:26
 02186746-d5da-411a-bc28-1ec1c75112b9,kansas.moi,available,25.99,25.99,medium,low,6,namesilo,,,
 1d05d2d9-c8c0-479b-aad9-cb1004701519,kudos.moi,available,25.99,25.99,high,low,5,namesilo,,,
 3e778750-b3dc-42ea-8c27-1e20a6ca45d6,since.moi,available,25.99,25.99,medium,low,5,namesilo,,,
-dd869e2f-e25f-49f1-b277-05b36862b9f6,contented.moi,available,18.99,39.99,high,low,9,name.com,,,
+dd869e2f-e25f-49f1-b277-05b36862b9f6,contented.moi,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 21:58
 e097007c-4c3a-4d9c-9a46-65834992da2a,anyway.moi,available,25.99,25.99,high,low,6,namesilo,,,
 860660dd-a1c6-45de-bf50-0b29e0885dc0,experimentally.moi,available,25.99,25.99,medium,low,14,namesilo,,,
 77e556e2-55f4-4838-b351-cf8f63534b2a,wicked.moi,available,18.99,39.99,high,low,6,name.com,,,
@@ -981,7 +981,7 @@ f0e3c9c6-7104-427c-a6e1-079bfb385126,isbn.moi,available,25.99,25.99,high,low,4,n
 a7704feb-b7bb-4869-8b9c-aaf5dd30a928,veggie.moi,available,25.99,25.99,medium,low,6,namesilo,,,19/09/2026 06:34
 b60d4957-ef8a-4e25-9956-dcf100559e49,driving.moi,available,18.99,39.99,high,low,7,name.com,,,
 1d91afd8-9abf-455a-99b3-20c1c036496b,phase.moi,available,25.99,25.99,high,low,5,namesilo,,,
-45923541-8994-4be4-b819-49d5829b336d,gay.moi,premium,937.5,,high,medium,3,name.com,,,
+45923541-8994-4be4-b819-49d5829b336d,gay.moi,premium,960,960,medium,low,3,namesilo,,,23/09/2026 09:22
 d102241f-7d99-49a6-98dc-63b0d56de92f,angular.moi,available,25.99,25.99,low,low,7,namesilo,,,22/09/2026 04:30
 ab9460b5-8e9e-43c5-8011-f06097a1c713,terror.moi,available,25.99,25.99,medium,low,6,namesilo,,,
 795cd845-e284-42a5-958b-3c9c15e099ad,annoyed.moi,available,25.99,25.99,low,low,7,namesilo,,,22/09/2026 05:18
